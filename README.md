@@ -3,7 +3,7 @@ Building a simple 8-Bit Computer step by step from simple logic gates.
 
 This project is a personal project that I am doing since i am very intrigued by computer logic on the lowest level of logic gates. Due to that I am making this projcet to document every step of my journey to making a full 8-bit computer with every part of the project built by me using my research and understanding of logic gates and logic systems. 
 It will start off with the simple logic gate circuits that make up an ALU (Arithmetic Logic Unit) and then building working memory, and then the logic systems architectures that go into the processor. 
-My goal is to document my journey as I explore how the most complex of how a full computer system works at the small scale of 8-bits or 1 byte. 
+My goal is to document my journey as I explore how a full computer system works at the small scale of 8-bits or 1 byte. 
 
 The Project Objectives and plan are as follows:
  - Work on arithmitic logic circuits using logic gates
