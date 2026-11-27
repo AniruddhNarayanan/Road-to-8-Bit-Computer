@@ -1,5 +1,5 @@
 # Milestone 1: Binary Arithmetic
----
+
 The first major milestone for me would be to develop the circuits the 4 basic arithmetic processes: addition, subtraction, division, and multiplication. 
 This is the first major milestone in my mind that shows the biggest progress towards a fully working ALU.
 
