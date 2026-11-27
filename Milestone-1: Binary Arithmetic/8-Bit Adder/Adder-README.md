@@ -4,7 +4,7 @@
 
 ### Documentation:
 
-My first main setback was when i was trying to make a full adder. I had previously already figured out how to make a full adder a few months ago, and all that I remembered was that it needed 4 logic gates if it needed to support adding a carry to the sum result of A and B. So to figure out which logic gates were needed I drew out the truth tables on my iPad, with a column for A, B, C, O2, and O1. In this truth table O1 represnted the first output bit which is equal to 1, and O2 representing the second output bit.
+My first main setback was when i was trying to make a full adder. I had previously already figured out how to make a full adder a few months ago, and all that I remembered was that it needed 4 logic gates if it needed to support adding a carry to the sum result of A and B (I later realized that I needed 5 so trying to limit myself to the 4 that I remembered was something I was doing wrong). So to figure out which logic gates were needed I drew out the truth tables on my iPad, with a column for A, B, C, O2, and O1. In this truth table O1 represnted the first output bit which is equal to 1, and O2 representing the second output bit.
 | Input A | Input B | Input C (Carry) | Output 2 (Carry Out) | Output 1 (Sum) |
 |:---:|:---:|:---:|:---:|:---:|
 | 0 | 0 | 0 | 0 | 0 |
