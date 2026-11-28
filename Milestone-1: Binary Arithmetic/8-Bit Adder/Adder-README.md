@@ -37,11 +37,11 @@ After making my full adder i initally tried to wire 8 of them in sequence with t
 ## Screenshots of Circuit:
 
 Screenshot of the 8-Bit Adder Circuit
-![8-Bit Adder Circuit](Milestone-1: Binary Arithmetic/8-Bit Adder/Screenshots/Adder_8Bit.png)
+![8-Bit Adder Circuit](Screenshots/Adder_8Bit.png)
 
 Screenshot of the 4-Bit Adder Circuit
-![8-Bit Adder Circuit](Milestone-1: Binary Arithmetic/8-Bit Adder/Screenshots/Adder_4Bit.png)
+![8-Bit Adder Circuit](Screenshots/Adder_4Bit.png)
 
 Screenshot of the Full Adder Circuit
-![8-Bit Adder Circuit](Milestone-1: Binary Arithmetic/8-Bit Adder/Screenshots/FullAdder.png)
+![8-Bit Adder Circuit](Screenshots/FullAdder.png)
 
