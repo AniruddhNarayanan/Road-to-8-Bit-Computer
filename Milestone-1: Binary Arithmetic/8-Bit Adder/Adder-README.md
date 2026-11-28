@@ -31,3 +31,17 @@ For the AND, it was a little more complex, because that would revolve around the
 I initially thought I would need to wire the output of A AND B into the second layer of AND and XOR gates that draw one input from C and realized that through testing the truth table that it wasn't accurate, which made me realize that I  had made a mistake somewhere. After realizing my mistake and fixing it, I ran the same test cases from the truth table, and once that matched my created truth table I knew I could be confident that my circuit was a completed Full Adder.
 
 After making my full adder i initally tried to wire 8 of them in sequence with the O2 (CARRY OUT) of each one going into the C (CARRY IN) of the next one, but when trying to wire my fifth full adder in the sequence in with the 5th B and A bits Logisim Evolution threw an Error called a "Nullpointer Exception", and after trying to see what caused it I just assumed it was a imposed wire limit per circuit and so instead of going from a Full adder directly to a working 8-bit adder I decided to make it a 4-bit adder, and wire two of those into a working 8-bit adder. I knew I didn't have to go into making it a 2-bit adder into a 4-bit adder and so on because I was able to wire 4 full adders together completely with Logisim only throwing the error when I tried to wire the fifth full adder. 
+
+---
+
+## Screenshots of Circuit:
+
+Screenshot of the 8-Bit Adder Circuit
+![8-Bit Adder Circuit](Milestone-1: Binary Arithmetic/8-Bit Adder/Screenshots/Adder_8Bit.png)
+
+Screenshot of the 4-Bit Adder Circuit
+![8-Bit Adder Circuit](Milestone-1: Binary Arithmetic/8-Bit Adder/Screenshots/Adder_4Bit.png)
+
+Screenshot of the Full Adder Circuit
+![8-Bit Adder Circuit](Milestone-1: Binary Arithmetic/8-Bit Adder/Screenshots/FullAdder.png)
+
